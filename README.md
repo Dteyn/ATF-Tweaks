@@ -42,7 +42,7 @@ While I've made every effort to test this plugin and ensure it's free from bugs 
 
 ## Step 1
 
-**Download** the [full release zip file](https://github.com/Dteyn/ATF_Tweaks/releases/download/v1.0.0/ATF_Tweaks-v1.0.0.zip) and **extract** into your After the Fall game folder.
+**Download** the [full release zip file](https://github.com/Dteyn/ATF-Tweaks/releases/download/v1.0.0/ATF_Tweaks-v1.0.0.zip) and **extract** into your After the Fall game folder.
 
 The default game folder location varies depending on version:
 
