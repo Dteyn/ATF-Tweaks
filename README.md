@@ -106,3 +106,5 @@ If you really need a version that works with BepInEx version 6.0.0-pre.1 (ie. fo
 If you want to show some support, I have Ko-Fi page where you can buy me a coffee:
 
 https://ko-fi.com/Dteyn
+
+You are visitor: ![Page views](https://dteyn-rad-page.netlify.app/.netlify/functions/pageviews?repo=ATF-Tweaks)
