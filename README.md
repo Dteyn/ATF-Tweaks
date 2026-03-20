@@ -67,7 +67,7 @@ You can enable or disable tweaks from the in-game menu.
 
 Currently, there are two tweaks available in the Gameplay section:
 
-![Screenshot showing Gameplay menu tweaks](https://github.com/Dteyn/ATF_Tweaks/blob/main/assets/images/gameplay-tweaks.jpg)
+![Screenshot showing Gameplay menu tweaks](https://github.com/Dteyn/ATF-Tweaks/blob/main/assets/images/gameplay-tweaks.jpg)
 
 - **Show Bullet Tracers:** By default, the game will show a tracer (highlighted line) for each bullet. Toggling this off will hide bullet tracers.
 
