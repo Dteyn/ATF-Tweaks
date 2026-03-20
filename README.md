@@ -65,15 +65,15 @@ Start the game (first launch will take longer) and you will have new options in 
 
 # Uninstalling
 
-If you want to uninstall ATF Tweaks, there are several options:
+If you want to uninstall ATF Tweaks, there are several options. You only need to choose one.
 
-## 1. Disable BepInEx
+## Option 1. Disable BepInEx
 
 To disable BepInEx, just rename the `winhttp.dll` file in the After the Fall folder to something different, like `winhttp-disabled.dll`. This will prevent BepInEx from starting which disables the plugin.
 
 This method leaves BepInEx and ATF Tweaks installed, and simply disables them. To re-enable, just rename the .dll file back to `winhttp.dll` if you want to use ATF Tweaks again.
 
-## 2. Remove plugin dll
+## Option 2. Remove plugin dll
 
 If you want to leave BepInEx intact (for use with other plugins), remove the .dll file from the plugins folder:
 
@@ -85,7 +85,7 @@ If you wish to also remove the saved settings (which only take effect if the plu
 
 `BepInEx\config\ATF-Tweaks.cfg`
 
-## 3. Complete Uninstall
+## Option 3. Complete Uninstall
 
 If you want to entirely remove the plugin and BepInEx, you can completely uninstall everything by simply removing these folders and files:
 
