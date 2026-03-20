@@ -2,6 +2,8 @@
 
 Adds various tweaks to After the Fall VR.
 
+![Screenshot showing Gameplay menu tweaks](https://github.com/Dteyn/ATF-Tweaks/blob/main/assets/images/gameplay-tweaks.jpg)
+
 >[!NOTE]
 > Compatible with **PCVR (Steam and Oculus Rift)** versions of After the Fall. Other platforms are not supported.
 
@@ -66,8 +68,6 @@ Start the game (first launch will take longer) and you will have new options in 
 You can enable or disable tweaks from the in-game menu.
 
 Currently, there are two tweaks available in the Gameplay section:
-
-![Screenshot showing Gameplay menu tweaks](https://github.com/Dteyn/ATF-Tweaks/blob/main/assets/images/gameplay-tweaks.jpg)
 
 - **Show Bullet Tracers:** By default, the game will show a tracer (highlighted line) for each bullet. Toggling this off will hide bullet tracers.
 
