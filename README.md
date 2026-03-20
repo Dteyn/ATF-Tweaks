@@ -65,7 +65,7 @@ Start the game (first launch will take longer) and you will have new options in 
 
 # Uninstalling
 
-If you want to uninstall the mod, there are several options:
+If you want to uninstall ATF Tweaks, there are several options:
 
 ## 1. Disable BepInEx
 
