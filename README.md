@@ -63,6 +63,43 @@ Start the game (first launch will take longer) and you will have new options in 
 >[!NOTE]
 > ***The first time launching after install will take a couple minutes as BepInEx creates needed files.*** After the first launch, the game will launch normally.
 
+# Uninstalling
+
+If you want to uninstall the mod, there are several options:
+
+## 1. Disable BepInEx
+
+To disable BepInEx, just rename the `winhttp.dll` file in the After the Fall folder to something different, like `winhttp-disabled.dll`. This will prevent BepInEx from starting which disables the plugin.
+
+This method leaves BepInEx and ATF Tweaks installed, and simply disables them. To re-enable, just rename the .dll file back to `winhttp.dll` if you want to use ATF Tweaks again.
+
+## 2. Remove plugin dll
+
+If you want to leave BepInEx intact (for use with other plugins), remove the .dll file from the plugins folder:
+
+`BepInEx\plugins\ATF-Tweaks.dll`
+
+Removing this file will leave BepInEx intact and completely remove and disable ATF Tweaks.
+
+If you wish to also remove the saved settings (which only take effect if the plugin is running), you can also remove them here:
+
+`BepInEx\config\ATF-Tweaks.cfg`
+
+## 3. Complete Uninstall
+
+If you want to entirely remove the plugin and BepInEx, you can completely uninstall everything by simply removing these folders and files:
+
+- `BepInEx\`
+- `dotnet\`
+- `changelog-BepInEx.txt`
+- `doorstop_config.ini`
+- `.doorstop_version`
+- `winhttp.dll`
+
+>[!TIP]
+> No game files are changed by ATF Tweaks or BepInEx, and nothing is installed elsewhere on your system - removing the above folders & files is a **complete** uninstall.
+
+
 # Configuration
 
 You can enable or disable tweaks from the in-game menu.
